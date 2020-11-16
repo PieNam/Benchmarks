@@ -1,0 +1,26 @@
+{
+  "name": "benchmarks",
+  "version": "0.0.0",
+  "description": "Benchmarks experiments for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieNam/Benchmarks.git"
+  },
+  "keywords": [
+    "javascript",
+    "benchmark"
+  ],
+  "author": "pespiepie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PieNam/Benchmarks/issues"
+  },
+  "homepage": "https://github.com/PieNam/Benchmarks#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
